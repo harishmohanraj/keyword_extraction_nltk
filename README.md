@@ -13,5 +13,5 @@
 
 ## Sample input and output:
 
-"We are making great progress with healthcare. ObamaCare is imploding and will only get worse. Republicans coming together to get job done!"
-> ['great', 'progress', 'healthcare', 'obamacare', 'republicans', 'job']
+- "We are making great progress with healthcare. ObamaCare is imploding and will only get worse. Republicans coming together to get job done!"
+  > ['great', 'progress', 'healthcare', 'obamacare', 'republicans', 'job']
