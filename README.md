@@ -9,3 +9,9 @@
 - [ Beginners Guide to Topic Modeling in Python ](https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/)
 - [ Tweet Sentiment Visualization ](https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/)
 - [ Ultimate Guide to Understand & Implement Natural Language Processing ](https://www.analyticsvidhya.com/blog/2017/01/ultimate-guide-to-understand-implement-natural-language-processing-codes-in-python/)
+
+
+## Sample input and output:
+
+"We are making great progress with healthcare. ObamaCare is imploding and will only get worse. Republicans coming together to get job done!"
+> ['great', 'progress', 'healthcare', 'obamacare', 'republicans', 'job']
